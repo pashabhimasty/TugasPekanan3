@@ -1,0 +1,17 @@
+{
+  "name": "api-automation-kasir-aja",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests/*.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chai": "^5.1.1",
+    "mocha": "^10.6.0",
+    "supertest": "^7.0.0"
+  }
+}
